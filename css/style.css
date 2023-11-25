@@ -1128,15 +1128,6 @@ body.offcanvas .colorlib-nav-toggle {
   text-align: center;
 }
 
-.services:hover {
-  /* border-top-left-radius: 10px;
-  border-bottom-left-radius: 10px;
-  animation-name: example;
-  animation-duration: 0.25s; */
-  /* border-left: 6px solid #2895ded8; */
-  /* box-shadow: inset 3px 3px 8px rgba(0, 0, 0, 0.2); */
-}
-
 .services .icon2 {
   display: block;
   margin-bottom: 20px;
@@ -1249,12 +1240,6 @@ body.offcanvas .colorlib-nav-toggle {
   vertical-align: middle;
 }
 
-.services {}
-
-/* .fa-square-js{
-        font-size: 30px;
-
-      } */
 .services .desc {
   margin-top: 60px;
 }
